@@ -1,0 +1,1 @@
+[{"name":"api","status":"major-outage","order":1},{"name":"cdn","status":"major-outage","order":2},{"name":"dns","status":"major-outage","order":3},{"name":"site-delivery","status":"major-outage","order":4}]
